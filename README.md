@@ -11,10 +11,11 @@
 
 - 🌱 I’m currently trying to learn [Jetpack Compose](https://developer.android.com/jetpack/compose) and [Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/).
 - 🧑‍💻 Computer Engineering at [Uka Tarsadia University](https://www.utu.ac.in/).
+- 🧑‍💻 Currently studying Software Engineering at [Regent College - London](https://www.rcl.ac.uk/).
 - 💬 Ask me about CLEAN architecture Android, Flutter and Dart
 - 🔭 I’m currently working on **some of my side projects**
 - 👯 I’m looking to collaborate on **anything free and open source**
-- ⚡ Fun fact: I spend almost 2 hours surfing new things on the internet everyday. I love to keep myself updated!!
+- ⚡ Fun fact: I spend almost 2 hours surfing new things on the internet daily. I love to keep myself updated!!
 
 ## 🤔 Want More Info? 
 - 🎯 Visit my Portfolio site: [aryan-gajera.web.app](https://aryan-gajera.web.app)
